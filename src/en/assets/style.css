@@ -156,7 +156,7 @@ figcaption {
 blockquote {
 	color: var(--col-quote);
 	background-color: var(--col-quote-bg);
-	border-right: 3.5px solid var(--col-pri);
+	border-left: 3.5px solid var(--col-pri);
 	padding: 5px 20px;
 }
 
