@@ -1,0 +1,23 @@
+{
+  "title": "Ghaim",
+  "url": "https://en.mstfelg.com",
+  "arUrl": "https://ar.mstfelg.com",
+  "language": "en",
+  "description": "Mustafa Alelg's personal blog.",
+  "license": "© 2022 Mustafa Alelg (CC BY-NC 4.0)",
+  "feed": {
+    "subtitle": "Mustafa Alelg personal blog",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Mustafa Alelg",
+    "email": "me@mstfelg.com",
+    "url": "https://mstfelg.com"
+  }
+}

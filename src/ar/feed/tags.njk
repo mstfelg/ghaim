@@ -1,0 +1,24 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - nav
+    - math
+    - post
+    - posts
+    - tagList
+  addAllPagesToCollections: true
+layout: home.njk
+eleventyComputed:
+  title: وسم {{ tag }}
+permalink: /{{ tag }}/
+---
+<h1>وسم  «{{ tag | localizeTag }}»</h1>
+
+{% set postslist = collections[ tag ] %}
+{% include "postslist.njk" %}
+
+<p>انظر <a href="{{ '/' | url }}">جميع الوسوم</a>.</p>

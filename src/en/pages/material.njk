@@ -1,0 +1,16 @@
+---
+layout: home.njk
+tags: headerNav
+eleventyNavigation:
+  key: Material
+  order: 1
+---
+
+<h1>Material</h1>
+{% include "showcase.njk" %}
+
+<h2>Math blog posts</h2>
+{% set maxPosts = collections.math.length | min(3) %}
+{% set postslist = collections.math | head(-7) %}
+{% set postslistCounter = collections.math | length %}
+{% include "postslist.njk" %}

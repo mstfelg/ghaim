@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="5.2916665cm"
+   height="2.6458335cm"
+   viewBox="0 0 810.28155 401.25668"
+   id="svg229"
+   sodipodi:docname="banner-nt.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs233">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1256">
+      <rect
+         style="opacity:0.70684;fill:#62a3db;stroke:#000000;stroke-width:7.58792;stroke-linecap:round;stroke-miterlimit:3"
+         id="rect1258"
+         width="689.14069"
+         height="378.90344"
+         x="64.090927"
+         y="141.19644" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview231"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="3.7078675"
+     inkscape:cx="140.64688"
+     inkscape:cy="70.525714"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg229" />
+  <title
+     id="title2" />
+  <g
+     stroke-linejoin="miter"
+     stroke-dashoffset="0"
+     stroke-dasharray="none"
+     stroke-width="1"
+     stroke-miterlimit="10"
+     stroke-linecap="square"
+     id="g227"
+     transform="matrix(1.1757854,0,0,1.0692455,-75.357176,-152.83704)"
+     clip-path="url(#clipPath1256)">
+    <g
+       transform="translate(-518,-254)"
+       id="g13">
+      <clipPath
+         id="clipecc18458-4227-4f7a-b9d1-edd2adf784ea">
+        <path
+           d="m 518,254 v 391 h 688 V 254 Z"
+           id="path4" />
+      </clipPath>
+      <g
+         clip-path="url(#clip1)"
+         id="g11">
+        <g
+           fill-opacity="1"
+           fill-rule="nonzero"
+           stroke="none"
+           fill="#ffffff"
+           id="g9">
+          <path
+             d="M 0,0 H 1708 V 848 H 0 Z"
+             id="path7" />
+        </g>
+        <!-- drawing style -->
+      </g>
+      <!-- clip1 -->
+    </g>
+    <!-- transform -->
+    <g
+       id="misc" />
+    <!-- misc -->
+    <g
+       id="layer0">
+      <g
+         transform="translate(-518,-254)"
+         id="g29">
+        <clipPath
+           id="clip6c60175b-d83f-45f6-b526-c304babbc5cb">
+          <path
+             d="m 518,254 v 391 h 688 V 254 Z"
+             id="path16" />
+        </clipPath>
+        <g
+           clip-path="url(#clip2)"
+           id="g27">
+          <g
+             stroke-linejoin="round"
+             stroke-dasharray="7, 4"
+             stroke-width="3"
+             stroke-linecap="butt"
+             fill="none"
+             stroke-opacity="1"
+             stroke="#993300"
+             id="g25">
+            <path
+               d="M -10,858 H 1718"
+               id="path19" />
+            <title
+               id="title21">Inequality a</title>
+            <desc
+               id="desc23">a: y &lt; 1</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip2 -->
+      </g>
+      <!-- transform -->
+      <g
+         transform="translate(-518,-254)"
+         id="g44">
+        <clipPath
+           id="clipacbf921a-a374-4bce-ada1-c6ecdc838243">
+          <path
+             d="m 518,254 v 391 h 688 V 254 Z"
+             id="path31" />
+        </clipPath>
+        <g
+           clip-path="url(#clip3)"
+           id="g42">
+          <g
+             stroke-linejoin="round"
+             stroke-dasharray="7, 4"
+             stroke-width="3"
+             stroke-linecap="butt"
+             fill="none"
+             stroke-opacity="1"
+             stroke="#993300"
+             id="g40">
+            <path
+               d="M -10,335 H 1718"
+               id="path34" />
+            <title
+               id="title36">Inequality a</title>
+            <desc
+               id="desc38">a: y &lt; 1</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip3 -->
+      </g>
+      <!-- transform -->
+      <g
+         transform="translate(-518,-254)"
+         id="g59">
+        <clipPath
+           id="clip6e3e336b-0942-4757-a554-cfc89dfcaa3a">
+          <path
+             d="m 518,254 v 391 h 688 V 254 Z"
+             id="path46" />
+        </clipPath>
+        <g
+           clip-path="url(#clip4)"
+           id="g57">
+          <g
+             fill-opacity="0.098039"
+             fill-rule="nonzero"
+             stroke="none"
+             fill="#993300"
+             id="g55">
+            <path
+               d="M -10,335 V 858 H 1718 V 335 Z"
+               id="path49" />
+            <title
+               id="title51">Inequality a</title>
+            <desc
+               id="desc53">a: y &lt; 1</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip4 -->
+      </g>
+      <!-- transform -->
+      <g
+         transform="matrix(0.51,0,0,0.51,156,230.83)"
+         id="g74">
+        <clipPath
+           id="clipe169b3cb-9d9f-44ac-80a1-8f0117f64bbe">
+          <path
+             d="M -305.88,-452.61 V 314.05 H 1043.1 v -766.66 z"
+             id="path61" />
+        </clipPath>
+        <g
+           clip-path="url(#clip5)"
+           id="g72">
+          <g
+             fill-opacity="1"
+             fill-rule="nonzero"
+             stroke="none"
+             fill="#000000"
+             id="g70">
+            <path
+               d="m 37.297,-37.797 q 0.5,-3.406 3.109,-4.203 0.5,-0.203 1.094,-0.203 2.594,0 2.906,2.703 0,0.594 -0.703,3.406 l -3.609,14 q -1.5,6.297 -2.188,9 -1.312,5.1878 -1.312,7.3909 0,4.6093 3,4.6093 3.812,0 6.406,-8 0.5,-1.7032 1.203,-4.4062 0.797,-1.703 1.391,-1.797 1.203,0 1.203,1 0,1.5 -1.797,7.0001 -0.594,1.7031 -1.203,2.8907 -2.797,5.5 -7.391,5.5 -5.609,0 -8.109,-4.7969 -0.703,-1.2031 -1,-2.7031 -6.297,7.5 -13,7.5 -7.5001,0 -11.0939,-6.7969 Q 4,-9.7031 4,-14.906 q 0,-10.797 7.5,-20 7,-8.391 15.203,-9.188 0.703,-0.109 1.391,-0.109 6.109,0 9.203,6.406 z m -6.5,25.891 v 0 l 5,-19.594 q 0.297,-1.5 0.297,-1.703 0,-2.094 -1.797,-5.094 Q 32.094,-42 28.203,-42 q -5.203,0 -9.906,6.797 -0.891,1.297 -1.703,2.797 -2.891,5.812 -4.891,16.5 -0.609,3.406 -0.609,5.406 0,6.7969 3.812,8.7969 1.094,0.6093 2.594,0.6093 5.594,0 11.297,-7.1093 1.406,-1.5938 1.906,-3.2969 v -0.094 q 0.094,-0.203 0.094,-0.312 z"
+               id="path64" />
+            <title
+               id="title66">a^{\varphi(n)}\equiv 1 \mod n</title>
+            <desc
+               id="desc68">text1 = âa^{\varphi(n)}\equiv 1 \mod nâ</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip5 -->
+      </g>
+      <!-- transform -->
+      <g
+         transform="matrix(0.357,0,0,0.357,182.98,209.77)"
+         id="g89">
+        <clipPath
+           id="clipc5603a1f-8638-4475-8a88-0bdfc18362fe">
+          <path
+             d="M -512.55,-587.61 V 507.63 H 1414.6 V -587.61 Z"
+             id="path76" />
+        </clipPath>
+        <g
+           clip-path="url(#clip6)"
+           id="g87">
+          <g
+             fill-opacity="1"
+             fill-rule="nonzero"
+             stroke="none"
+             fill="#000000"
+             id="g85">
+            <path
+               d="M 17,17 22.297,0.20312 Q 10.906,-2.5 6.7031,-11.094 5,-14.797 5,-19 q 0,-7.906 5.297,-17.797 3.297,-6.297 5.203,-6.297 1.203,0 1.203,1 0,0.391 -0.797,1.297 -5.812,6.703 -7.906,17.594 -0.4062,2 -0.4062,3.109 0,8.797 9.9062,12.8909 2.906,1.2031 6.5,1.9062 5.906,-19.2971 10,-26.6091 6.797,-12.297 16.5,-12.297 7.703,0 10.406,7.406 1,2.891 1,6.391 0,11.109 -8.703,20.4998 Q 44.5,-0.40625 33.094,0.90625 31.5,1.0938 29.906,1.0938 q -1.5,0 -3.312,-0.18755 -3.5,18.18775 -3.5,18.29675 -1.094,2.5 -3.688,2.594 -2.312,0 -2.812,-2 v -0.094 0 Q 16.5,19.406 16.5,19 16.5,18.594 17,17 Z M 30.797,-4.7031 q 11.609,0 20.406,-7.8909 7.703,-7 7.891,-15.609 0,-6.203 -4.391,-8.891 -2.203,-1.312 -5.203,-1.312 -8.297,0 -14.5,9.703 -3.5,5.5 -5.297,12.703 -2,10 -2,10.7969 0,0.4062 1.297,0.4062 0.797,0.0938 1.797,0.0938 z"
+               id="path79" />
+            <title
+               id="title81">a^{\varphi(n)}\equiv 1 \mod n</title>
+            <desc
+               id="desc83">text1 = âa^{\varphi(n)}\equiv 1 \mod nâ</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip6 -->
+      </g>
+      <!-- transform -->
+      <g
+         transform="matrix(0.357,0,0,0.357,206.33,209.77)"
+         id="g104">
+        <clipPath
+           id="clipddbc22b6-f0ce-4e1a-8d1d-02a16a78d5ac">
+          <path
+             d="M -577.95,-587.61 V 507.63 H 1349.2 V -587.61 Z"
+             id="path91" />
+        </clipPath>
+        <g
+           clip-path="url(#clip7)"
+           id="g102">
+          <g
+             fill-opacity="1"
+             fill-rule="nonzero"
+             stroke="none"
+             fill="#000000"
+             id="g100">
+            <path
+               d="m 33.094,24 v 0 q 0,1 -1,1 -1.188,0 -5.297,-4.094 Q 20.594,14.703 16.5,6.2031 9.9062,-7.4062 9.9062,-25 q 0,-16.906 6.2968,-30.5 5.203,-11.094 13.203,-17.797 Q 31.5,-75 32.094,-75 q 1,0 1,1 0,0.5 -1.297,1.703 -16.094,16.391 -16.094,47.297 0,30.7969 15.703,46.797 1.688,1.703 1.688,2.203 z"
+               id="path94" />
+            <title
+               id="title96">a^{\varphi(n)}\equiv 1 \mod n</title>
+            <desc
+               id="desc98">text1 = âa^{\varphi(n)}\equiv 1 \mod nâ</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip7 -->
+      </g>
+      <!-- transform -->
+      <g
+         transform="matrix(0.357,0,0,0.357,220.21,209.77)"
+         id="g119">
+        <clipPath
+           id="clip501cd349-8cd1-45e2-af46-82ebb95b83e4">
+          <path
+             d="M -616.85,-587.61 V 507.63 H 1310.3 V -587.61 Z"
+             id="path106" />
+        </clipPath>
+        <g
+           clip-path="url(#clip8)"
+           id="g117">
+          <g
+             fill-opacity="1"
+             fill-rule="nonzero"
+             stroke="none"
+             fill="#000000"
+             id="g115">
+            <path
+               d="m 8.7969,-5.9062 v 0 L 14.594,-29 q 1.609,-6.406 1.609,-8.406 0,-4.594 -3.109,-4.594 -4.094,0 -6.6878,9.5 -0.3124,1.094 -0.6093,2.406 -1.0938,2.188 -1.7031,2.297 -1.1876,0 -1.1876,-1 0,-1.609 2,-7.203 v -0.094 q 0,-0.109 0.0938,-0.109 v -0.094 -0.109 L 5.9062,-38.5 q 2.1876,-4 4.4998,-5 1.391,-0.703 3,-0.703 5.594,0 8.094,4.703 0.906,1.797 1.094,4 6.406,-8.703 15.609,-8.703 8.594,0 10.891,6.609 0.609,1.797 0.609,4.094 0,5.094 -6.109,22 -1.797,4.4062 -1.797,7.0938 0,3.3124 2.406,3.3124 6.594,0 10.203,-12.4062 0.5,-1.594 1,-1.703 v -0.094 h 0.5 q 1.188,0 1.188,1 0,1.703 -2.094,6.297 -4.297,9.0938 -11,9.0938 -5.094,0 -7.297,-4.2969 Q 35.797,-5 35.797,-7.0938 q 0,-2 1,-4.6092 6.5,-17.5 6.5,-23.297 0,-7 -5.391,-7 -9,0 -15.109,10 -0.703,1.094 -1.203,2.203 l -1.297,5 q -0.5,2.297 -1.703,6.703 l -2.188,9.0002 Q 14.703,-2.2031 14.5,-1.7031 13.594,0.90625 10.797,1.0938 8.2969,0.59375 7.9062,-1.5938 q 0,0.1876 0.8907,-4.3124 z"
+               id="path109" />
+            <title
+               id="title111">a^{\varphi(n)}\equiv 1 \mod n</title>
+            <desc
+               id="desc113">text1 = âa^{\varphi(n)}\equiv 1 \mod nâ</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip8 -->
+      </g>
+      <!-- transform -->
+      <g
+         transform="matrix(0.357,0,0,0.357,241.63,209.77)"
+         id="g134">
+        <clipPath
+           id="clipe87225c9-f1ce-4f19-97ad-c5b1dbbfbde7">
+          <path
+             d="M -676.85,-587.61 V 507.63 H 1250.3 V -587.61 Z"
+             id="path121" />
+        </clipPath>
+        <g
+           clip-path="url(#clip9)"
+           id="g132">
+          <g
+             fill-opacity="1"
+             fill-rule="nonzero"
+             stroke="none"
+             fill="#000000"
+             id="g130">
+            <path
+               d="m 28.906,-25 v 0 q 0,16.9062 -6.312,30.5 Q 17.406,16.594 9.4062,23.297 7.2969,25 6.7031,25 q -1,0 -1,-1 Q 5.7031,23.5 7,22.297 23.094,5.9062 23.094,-25 q 0,-30.5 -15.0002,-46.203 l -0.5,-0.5 Q 5.7031,-73.5 5.7031,-74 q 0,-1 1,-1 1.2031,0 5.2969,4.094 6.203,6.203 10.297,14.703 6.609,13.609 6.609,31.203 z"
+               id="path124" />
+            <title
+               id="title126">a^{\varphi(n)}\equiv 1 \mod n</title>
+            <desc
+               id="desc128">text1 = âa^{\varphi(n)}\equiv 1 \mod nâ</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip9 -->
+      </g>
+      <!-- transform -->
+      <g
+         transform="matrix(0.51,0,0,0.51,270.19,230.83)"
+         id="g149">
+        <clipPath
+           id="clip96da099b-8d84-43fa-a8ab-a54ec2c1512d">
+          <path
+             d="M -529.78,-452.61 V 314.05 H 819.24 v -766.66 z"
+             id="path136" />
+        </clipPath>
+        <g
+           clip-path="url(#clip10)"
+           id="g147">
+          <g
+             fill-opacity="1"
+             fill-rule="nonzero"
+             stroke="none"
+             fill="#000000"
+             id="g145">
+            <path
+               d="M 68.703,-42.406 H 9 q -3.2031,0 -3.4062,-2 0,-2 3.3124,-2 H 68.797 q 3.203,0 3.297,2 0,2 -3.391,2 z m 0.094,38.8122 H 8.9062 q -3.2031,0 -3.3124,-2 0,-2 3.4062,-2 h 59.703 q 3.203,0 3.391,2 0,2 -3.297,2 z M 68.797,-23 H 8.9062 q -3.2031,0 -3.3124,-2 0,-2 3.3124,-2 H 68.797 q 3.203,0 3.297,2 0,2 -3.297,2 z"
+               id="path139" />
+            <title
+               id="title141">a^{\varphi(n)}\equiv 1 \mod n</title>
+            <desc
+               id="desc143">text1 = âa^{\varphi(n)}\equiv 1 \mod nâ</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip10 -->
+      </g>
+      <!-- transform -->
+      <g
+         transform="matrix(0.51,0,0,0.51,324.03,230.83)"
+         id="g164">
+        <clipPath
+           id="clip8c878c92-1f74-44ca-8629-c1b63201be9e">
+          <path
+             d="M -635.35,-452.61 V 314.05 H 713.66 v -766.66 z"
+             id="path151" />
+        </clipPath>
+        <g
+           clip-path="url(#clip11)"
+           id="g162">
+          <g
+             fill-opacity="1"
+             fill-rule="nonzero"
+             stroke="none"
+             fill="#000000"
+             id="g160">
+            <path
+               d="m 29.406,-64 v 56.0938 q 0,3 1.188,3.8124 1.703,1 8.109,1 h 3.203 V 0 Q 38.406,-0.29688 25.703,-0.29688 13,-0.29688 9.5,0 v -3.0938 h 3.203 q 7.703,0 8.797,-1.8124 L 21.594,-5 Q 22,-5.7969 22,-7.9062 V -59.703 q -5.203,2.609 -13.0938,2.609 v -3.109 q 11.9998,0 18.1878,-6.391 1.906,0 2.203,0.688 v 0 0.109 q 0.109,0.297 0.109,1.797 z"
+               id="path154" />
+            <title
+               id="title156">a^{\varphi(n)}\equiv 1 \mod n</title>
+            <desc
+               id="desc158">text1 = âa^{\varphi(n)}\equiv 1 \mod nâ</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip11 -->
+      </g>
+      <!-- transform -->
+      <g
+         transform="matrix(0.51,0,0,0.51,400.53,230.83)"
+         id="g179">
+        <clipPath
+           id="clip3b75e4ad-18b9-456d-8f3f-47a12b59a7ad">
+          <path
+             d="M -785.35,-452.61 V 314.05 H 563.66 v -766.66 z"
+             id="path166" />
+        </clipPath>
+        <g
+           clip-path="url(#clip12)"
+           id="g177">
+          <g
+             fill-opacity="1"
+             fill-rule="nonzero"
+             stroke="none"
+             fill="#000000"
+             id="g175">
+            <path
+               d="M 11,-34.406 Q 11,-38.297 9.5,-39.203 8.2969,-39.906 5.2031,-40 h -2 v -3.094 l 14.0939,-1.109 v 10.5 q 4.703,-10.5 14.797,-10.5 11.703,0 13.312,9.797 3,-6.797 9.391,-9 2.406,-0.797 5.109,-0.797 7.5,0 10.5,3.703 2.688,3.094 3,8.5 0.094,1.906 0.094,6.797 v 19.1092 q 0.094,2.3907 2.906,2.7969 1.188,0.2031 4.891,0.2031 V 0 Q 71.094,-0.29688 70.094,-0.29688 69.297,-0.29688 58.797,0 v -3.0938 q 5.906,0 6.906,-0.9062 l 0.203,-0.2031 Q 66.594,-5 66.594,-7.5938 V -30.906 q 0,-9.891 -5.688,-10.891 Q 60.094,-42 59.203,-42 53.094,-42 49,-36.703 45.703,-32.406 45.703,-26 v 18.4062 q 0,3.3907 1.594,4 1.109,0.5 6.203,0.5 V 0 Q 43.297,-0.29688 42.297,-0.29688 41.5,-0.29688 31,0 v -3.0938 q 5.906,0 6.906,-0.9062 l 0.188,-0.2031 Q 38.797,-5 38.797,-7.5938 V -30.906 q 0,-9.891 -5.703,-10.891 Q 32.297,-42 31.406,-42 q -6.109,0 -10.203,5.297 -3.297,4.297 -3.297,10.703 v 18.4062 q 0,3.3907 1.594,4 1.094,0.5 6.203,0.5 V 0 Q 15.5,-0.29688 14.5,-0.29688 13.703,-0.29688 3.2031,0 v -3.0938 q 5.8907,0 6.8909,-0.9062 l 0.203,-0.2031 Q 11,-5 11,-7.5938 Z"
+               id="path169" />
+            <title
+               id="title171">a^{\varphi(n)}\equiv 1 \mod n</title>
+            <desc
+               id="desc173">text1 = âa^{\varphi(n)}\equiv 1 \mod nâ</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip12 -->
+      </g>
+      <!-- transform -->
+      <g
+         transform="matrix(0.51,0,0,0.51,443.01,230.83)"
+         id="g194">
+        <clipPath
+           id="clipbcb20356-fdeb-4a8d-ac6f-749a3d3b467f">
+          <path
+             d="M -868.65,-452.61 V 314.05 H 480.36 v -766.66 z"
+             id="path181" />
+        </clipPath>
+        <g
+           clip-path="url(#clip13)"
+           id="g192">
+          <g
+             fill-opacity="1"
+             fill-rule="nonzero"
+             stroke="none"
+             fill="#000000"
+             id="g190">
+            <path
+               d="m 47.094,-21.406 v 0 q 0,10.312 -7.594,16.9998 -6.297,5.5 -14.594,5.5 -9.609,0 -16.2029,-7.1876 -5.9062,-6.5002 -5.9062,-15.3122 0,-10.188 7.2971,-17.188 6.312,-6.203 14.906,-6.203 9.703,0 16.297,7.703 5.797,6.688 5.797,15.688 z M 25,-1.4062 v 0 q 6.703,0 10.594,-5.5938 l 1,-1.7969 q 2.203,-4.4061 2.203,-13.4061 0,-9.594 -2.594,-13.891 -4.297,-6.203 -11.297,-6.5 -6.203,0 -10.203,5 -0.703,0.797 -1.203,1.688 -2.406,4.406 -2.406,13.703 0,9.703 2.5,14.1092 4.203,6.5 11.406,6.6876 z"
+               id="path184" />
+            <title
+               id="title186">a^{\varphi(n)}\equiv 1 \mod n</title>
+            <desc
+               id="desc188">text1 = âa^{\varphi(n)}\equiv 1 \mod nâ</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip13 -->
+      </g>
+      <!-- transform -->
+      <g
+         transform="matrix(0.51,0,0,0.51,469.94,230.83)"
+         id="g209">
+        <clipPath
+           id="clip3ca2041e-ec90-4136-96f8-e707c626f419">
+          <path
+             d="M -921.45,-452.61 V 314.05 H 427.56 v -766.66 z"
+             id="path196" />
+        </clipPath>
+        <g
+           clip-path="url(#clip14)"
+           id="g207">
+          <g
+             fill-opacity="1"
+             fill-rule="nonzero"
+             stroke="none"
+             fill="#000000"
+             id="g205">
+            <path
+               d="M 38,-5.5 Q 32.797,1.0938 24.594,1.0938 15.406,1.0938 9,-6.2031 3.4062,-12.703 3.4062,-21.5 q 0,-10.406 7.7968,-17.203 6.297,-5.5 14.5,-5.5 7.594,0 12.594,6.203 v -21.594 q 0,-3.906 -1.391,-4.812 H 36.797 Q 35.5,-65.203 30.5,-65.203 v -3.094 l 14.406,-1.109 v 60.7029 q 0,3.9062 1.5,4.7969 H 46.5 q 1.406,0.8124 6.203,0.8124 V 0 L 38,1.0938 Z m 0,-26.797 q 0,-2 -0.906,-3.297 L 36.906,-36 q -4.109,-6 -10.812,-6 -7,0 -11.297,6.406 -3.094,4.797 -3.094,14.188 0,9.312 2.891,13.906 4,6.4062 10.5,6.4062 7.203,0 11.609,-6.6093 l 0.203,-0.3907 Q 38,-10.203 38,-11.797 Z"
+               id="path199" />
+            <title
+               id="title201">a^{\varphi(n)}\equiv 1 \mod n</title>
+            <desc
+               id="desc203">text1 = âa^{\varphi(n)}\equiv 1 \mod nâ</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip14 -->
+      </g>
+      <!-- transform -->
+      <g
+         transform="matrix(0.51,0,0,0.51,515.3,230.83)"
+         id="g224">
+        <clipPath
+           id="clip3b4263f5-5e7e-4a30-a4a4-42a3d347cb62">
+          <path
+             d="M -1010.4,-452.61 V 314.05 H 338.63 v -766.66 z"
+             id="path211" />
+        </clipPath>
+        <g
+           clip-path="url(#clip15)"
+           id="g222">
+          <g
+             fill-opacity="1"
+             fill-rule="nonzero"
+             stroke="none"
+             fill="#000000"
+             id="g220">
+            <path
+               d="m 8.7969,-5.9062 v 0 L 14.594,-29 q 1.609,-6.406 1.609,-8.406 0,-4.594 -3.109,-4.594 -4.094,0 -6.6878,9.5 -0.3124,1.094 -0.6093,2.406 -1.0938,2.188 -1.7031,2.297 -1.1876,0 -1.1876,-1 0,-1.609 2,-7.203 v -0.094 q 0,-0.109 0.0938,-0.109 v -0.094 -0.109 L 5.9062,-38.5 q 2.1876,-4 4.4998,-5 1.391,-0.703 3,-0.703 5.594,0 8.094,4.703 0.906,1.797 1.094,4 6.406,-8.703 15.609,-8.703 8.594,0 10.891,6.609 0.609,1.797 0.609,4.094 0,5.094 -6.109,22 -1.797,4.4062 -1.797,7.0938 0,3.3124 2.406,3.3124 6.594,0 10.203,-12.4062 0.5,-1.594 1,-1.703 v -0.094 h 0.5 q 1.188,0 1.188,1 0,1.703 -2.094,6.297 -4.297,9.0938 -11,9.0938 -5.094,0 -7.297,-4.2969 Q 35.797,-5 35.797,-7.0938 q 0,-2 1,-4.6092 6.5,-17.5 6.5,-23.297 0,-7 -5.391,-7 -9,0 -15.109,10 -0.703,1.094 -1.203,2.203 l -1.297,5 q -0.5,2.297 -1.703,6.703 l -2.188,9.0002 Q 14.703,-2.2031 14.5,-1.7031 13.594,0.90625 10.797,1.0938 8.2969,0.59375 7.9062,-1.5938 q 0,0.1876 0.8907,-4.3124 z"
+               id="path214" />
+            <title
+               id="title216">a^{\varphi(n)}\equiv 1 \mod n</title>
+            <desc
+               id="desc218">text1 = âa^{\varphi(n)}\equiv 1 \mod nâ</desc>
+          </g>
+          <!-- drawing style -->
+        </g>
+        <!-- clip15 -->
+      </g>
+      <!-- transform -->
+    </g>
+    <!-- layer0 -->
+  </g>
+  <!-- default stroke -->
+</svg>
+<!-- bounding box -->
+

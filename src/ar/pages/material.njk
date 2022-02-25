@@ -1,0 +1,16 @@
+---
+layout: home.njk
+tags: headerNav
+eleventyNavigation:
+  key: مؤلفات
+  order: 1
+---
+
+<h1>مؤلفات</h1>
+{% include "showcase.njk" %}
+
+<h2>تدوينات</h2>
+{% set maxPosts = collections.math.length | min(3) %}
+{% set postslist = collections.math | head(-7) %}
+{% set postslistCounter = collections.math | length %}
+{% include "postslist.njk" %}

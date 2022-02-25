@@ -1,0 +1,10 @@
+{% for post in postslist | reverse %}
+<time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+    {% for tag in post.data.tags | filterTagList %}
+      {% set tagUrl %}/{{ tag | slug }}/{% endset %}
+      | <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+    {% endfor %}
+<a href="{{ post.url | url }}"><h2>{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</h2></a>
+	{{ post.data.description }}
+	<hr>
+{% endfor %}
