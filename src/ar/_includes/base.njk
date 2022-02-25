@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="{{ language or metadata.language }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css">
+	<link rel="stylesheet" href="https://unpkg.com/dracula-prism/dist/css/dracula-prism.min.css">
+    <link rel="stylesheet" href="{{ '/style.css' | url }}">
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+  </head>
+  <body>
+    <header>
+		<h1><a href="/">{{ metadata.title }}</a></h1>
+      <nav>
+      {%- for entry in collections.headerNav | eleventyNavigation %}
+        <a{% if entry.url == page.url %} class="nav-item-active"{% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
+      {%- endfor %}
+	  <a href="{{ metadata.author.url }}">عن</a>
+	  <a href="{{ metadata.urlEn }}">🇬🇧 EN</a>
+      </nav>
+    </header>
+
+	<main{% if templateClass %} class="{{ templateClass }}"{% endif %}{% if language %} style="direction: ltr;"{% endif %}>
+      {{ content | safe }}
+    </main>
+
+    <footer>
+      <nav>
+      {%- for entry in collections.footerNav | eleventyNavigation %}
+        <a{% if entry.url == page.url %} class="nav-item-active"{% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
+      {%- endfor %}
+      </nav>
+	  <div id="license">{{ metadata.license }}</div>
+	</footer>
+  </body>
+</html>

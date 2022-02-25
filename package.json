@@ -1,0 +1,42 @@
+{
+  "name": "ghaim",
+  "version": "1.0.0",
+  "description": "A sensible and simple bilingual blog template.",
+  "scripts": {
+    "build": "eleventy --config .eleventy-en.js && eleventy --config .eleventy-ar.js",
+    "watch": "eleventy --watch --config .eleventy-en.js",
+    "serve": "eleventy --serve --config .eleventy-en.js",
+    "watch:ar": "eleventy --watch --config .eleventy-ar.js",
+    "serve:ar": "eleventy --serve --config .eleventy-ar.js",
+    "debug": "DEBUG=* eleventy --config .eleventy-en.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mstfelg/ghaim.git"
+  },
+  "author": {
+    "name": "Mustafa Alelg",
+    "email": "me@mstfelg.com",
+    "url": "https://mstfelg.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mstfelg/ghaim/issues"
+  },
+  "homepage": "https://github.com/mstfelg/ghaim#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-navigation": "^0.3.2",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.3",
+    "luxon": "^2.3.0",
+    "markdown-it": "^12.3.2",
+    "markdown-it-anchor": "^8.4.1"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-basic-auth": "^1.2.1",
+    "fs": "^0.0.1-security",
+    "markdown-it-katex": "^2.0.3"
+  }
+}

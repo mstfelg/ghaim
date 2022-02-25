@@ -1,0 +1,8 @@
+---
+layout: home.njk
+permalink: /index.html
+---
+{% set maxPosts = collections.posts.length | min(7) %}
+{% set postslist = collections.posts | head(-7) %}
+{% set postslistCounter = collections.posts | length %}
+{% include "postslist.njk" %}

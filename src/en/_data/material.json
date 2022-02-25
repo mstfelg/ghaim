@@ -1,0 +1,52 @@
+{
+	"courses" : [
+		{
+			"title": "geometry",
+			"img": "/banner-geo.svg",
+			"chapters": [
+				{
+					"title": "orthocenter",
+					"description": "Discovering orthocenter properties",
+					"url": "https://mstfelg.com"
+				},
+				{
+					"title": "circumcenter",
+					"description": "Circumcenters and perpendicular bisectors.",
+					"url": "https://mstfelg.com"
+				}
+			]
+		},
+		{
+			"title": "algebra",
+			"img": "/banner-algebra.svg",
+			"chapters": [
+				{
+					"title": "Polynomials",
+					"description": "Eisenstein's criterion. Irreducibility and more. Even and odd polynomials. Common substitutions.",
+					"url": "https://mstfelg.com"
+				},
+				{
+					"title": "Functions",
+					"description": "Caushy additive functions, multiplicative functions, and Jensen's functions.",
+					"url": "https://mstfelg.com"
+				}
+			]
+		},
+		{
+			"title": "number theory",
+			"img": "/banner-nt.svg",
+			"chapters": [
+				{
+					"title": "Euler's totient function",
+					"description": "Special case of Fermat's last theorem.",
+					"url": "https://mstfelg.com"
+				},
+				{
+					"title": "Even, odd",
+					"description": "Divisibility rules",
+					"url": "https://mstfelg.com"
+				}
+			]
+		}
+	]
+}

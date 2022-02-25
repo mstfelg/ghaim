@@ -1,0 +1,23 @@
+{
+  "title": "غيم",
+  "url": "https://ar.mstfelg.com",
+  "urlEn": "https://en.mstfelg.com",
+  "language": "ar",
+  "description": "مدونة مصطفى العلق الشخصية.",
+  "license": "© 2022 مصطفى العلق (CC BY-NC 4.0)",
+  "feed": {
+    "subtitle": "Mustafa Alelg personal blog",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "مصطفى العلق",
+    "email": "me@mstfelg.com",
+    "url": "https://mstfelg.com"
+  }
+}

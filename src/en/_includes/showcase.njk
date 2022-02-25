@@ -1,0 +1,23 @@
+<div class="showcase">
+{% for course in material.courses %}
+		<div class="item-border">
+			<div class="item-banner">
+			 <h3>{{ course.title }}</h3>
+			 <div class="item-bg" style="background-image: url('{{course.img}}');"></div>
+			</div>
+
+			{% for ch in course.chapters %}
+		 <ul class="ch-list">
+		  <li class="ch-item">
+			  <a rel="nofollow noopener noreferrer" href="{{ ch.url }}" class="ch-url">
+			  <span class="ch-title">{{ ch.title }}</span>
+			<div class="ch-desc">
+				{{ ch.description }}
+			</div>
+			  </a>
+			  {% endfor %}
+		  </li>
+		 </ul>
+		</div> 
+{% endfor %}
+</div>
