@@ -1,0 +1,12 @@
+---
+layout: home.njk
+tags: footerNav
+eleventyNavigation:
+  key: ✒ أرشيف 
+  order: 2
+---
+
+<h1>أرشيف</h1>
+
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}

@@ -1,0 +1,52 @@
+{
+	"courses" : [
+		{
+			"title": "هندسة",
+			"img": "/banner-geo.svg",
+			"chapters": [
+				{
+					"title": "مركز التعامد",
+					"description": "استكشاف بسيط لخصائص مركز تعامد المثلث.",
+					"url": "https://mstfelg.com"
+				},
+				{
+					"title": "مركز المحيطة",
+					"description": "مراكز الدوائر المحيطة ومنصفات الأضلاع.",
+					"url": "https://mstfelg.com"
+				}
+			]
+		},
+		{
+			"title": "الجبر",
+			"img": "/banner-algebra.svg",
+			"chapters": [
+				{
+					"title": "كثيرات الحدود",
+					"description": "خاصية آيزنشتاين، قابلية الاختزال، والجذور.",
+					"url": "https://mstfelg.com"
+				},
+				{
+					"title": "الدوال",
+					"description": "دوال كوشي الجمعية، الدوال الضربية، ودوال ينسن.",
+					"url": "https://mstfelg.com"
+				}
+			]
+		},
+		{
+			"title": "نظرية الأعداد",
+			"img": "/banner-nt.svg",
+			"chapters": [
+				{
+					"title": "مبرهنة أويلر",
+					"description": "والأعداد الأولية نسبياً..",
+					"url": "https://mstfelg.com"
+				},
+				{
+					"title": "قواعد القسمة",
+					"description": "الأعداد الزوجية والفردية، وبراهين قابلية القسمة",
+					"url": "https://mstfelg.com"
+				}
+			]
+		}
+	]
+}
