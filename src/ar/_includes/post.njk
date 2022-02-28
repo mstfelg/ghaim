@@ -17,7 +17,6 @@ templateClass: tmpl-post
 {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
 {%- if nextPost or previousPost %}
 <hr>
-
 <div class="post-nav">
   {%- if nextPost %}
 	  <div class="next-post">
@@ -34,5 +33,7 @@ templateClass: tmpl-post
 	  </div>
   {% endif %}
 </div>
+{%- endif %}
+{%- endif %}
 
 <hr>
