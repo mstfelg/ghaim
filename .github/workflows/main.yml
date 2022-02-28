@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies & build
         run: |
           npm install
-          npm run build --pathprefix "/ghaim"
+          npm run build:ex
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
