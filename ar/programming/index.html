@@ -7,15 +7,15 @@
     <meta name="description" content="استعراض لبقية مزايا الماركداون">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css">
 	<link rel="stylesheet" href="https://unpkg.com/dracula-prism/dist/css/dracula-prism.min.css">
-    <link rel="stylesheet" href="/style.css">
-    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="غيم">
-    <link rel="alternate" href="/feed/feed.json" type="application/json" title="غيم">
+    <link rel="stylesheet" href="/ghaim/ar/style.css">
+    <link rel="alternate" href="/ghaim/ar/feed/feed.xml" type="application/atom+xml" title="غيم">
+    <link rel="alternate" href="/ghaim/ar/feed/feed.json" type="application/json" title="غيم">
   </head>
   <body>
     <header>
 		<h1><a href="/">غيم</a></h1>
       <nav>
-        <a href="/material/">مؤلفات</a>
+        <a href="/ghaim/ar/material/">مؤلفات</a>
 	  <a href="https://mstfelg.com">عن</a>
 	  <a href="https://en.mstfelg.com">🇬🇧 EN</a>
       </nav>
@@ -24,7 +24,7 @@
 	<main class="tmpl-post">
       <h1>قوائم</h1>
 
-<time datetime="2022-02-26">Saturday, February 26, 2022</time>&nbsp;| <a href="/code/" class="post-tag">برمجة</a>
+<time datetime="2022-02-26">Saturday, February 26, 2022</time>&nbsp;| <a href="/ghaim/ar/code/" class="post-tag">برمجة</a>
 
 <h2 id="jdwl-ktb" tabindex="-1"><a class="direct-link" href="#jdwl-ktb" aria-hidden="true">#</a> جدول كتب</h2>
 <p>هذه قائمة ببعض مترجمات منير بعلبكي:</p>
@@ -74,12 +74,12 @@
 <pre class="language-bash"><code class="language-bash"><span class="token comment">#     Title           :   Schejule</span><br><span class="token comment">#     Author          :   MUSTAFA ALELG</span><br><span class="token comment">#     Date            :   2021-11-20</span><br><span class="token comment">#     Description     :   A quick entry tool to create a Google Calendar event</span><br><span class="token comment">#!/bin/sh</span><br><br><span class="token builtin class-name">echo</span> <span class="token string">"Today is <span class="token variable"><span class="token variable">$(</span><span class="token function">date</span> -I<span class="token variable">)</span></span>. Add an event:"</span><br><span class="token builtin class-name">echo</span> <span class="token string">"¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯"</span><br><span class="token builtin class-name">read</span> -p <span class="token string">"Title: "</span> title<br><span class="token builtin class-name">read</span> -p <span class="token string">"Start: "</span> start<br><span class="token builtin class-name">read</span> -p <span class="token string">"End:   "</span> end<br><span class="token builtin class-name">read</span> -p <span class="token string">"Loc:   "</span> loc<br><span class="token builtin class-name">read</span> -p <span class="token string">"Note:  "</span> note<br><br><br><span class="token punctuation">[</span><span class="token punctuation">[</span> <span class="token variable">${end<span class="token operator">:</span><span class="token operator">:</span>1}</span> <span class="token operator">==</span> <span class="token string">"."</span> <span class="token punctuation">]</span><span class="token punctuation">]</span> <span class="token operator">&amp;&amp;</span> <span class="token assign-left variable">end</span><span class="token operator">=</span><span class="token string">"<span class="token variable">${start<span class="token operator">%%</span> *}</span><span class="token variable">${end<span class="token operator">:</span>1}</span>"</span><br><br><span class="token assign-left variable">start</span><span class="token operator">=</span><span class="token variable"><span class="token variable">$(</span><span class="token function">date</span> -d <span class="token string">"<span class="token variable">$start</span>"</span> <span class="token string">"+%Y%m%dT%H%M"</span><span class="token variable">)</span></span><br><span class="token assign-left variable">end</span><span class="token operator">=</span><span class="token variable"><span class="token variable">$(</span><span class="token function">date</span> -d <span class="token string">"<span class="token variable">$end</span>"</span> <span class="token string">"+%Y%m%dT%H%M"</span><span class="token variable">)</span></span><br><br><span class="token assign-left variable">url</span><span class="token operator">=</span><span class="token string">"https://www.google.com/calendar/render?action=TEMPLATE&amp;"</span><span class="token punctuation">\</span><br><span class="token string">"text=<span class="token variable">$title</span>&amp;"</span><span class="token punctuation">\</span><br><span class="token string">"dates=<span class="token variable">$start</span>%2F<span class="token variable">$end</span>&amp;"</span><span class="token punctuation">\</span><br><span class="token string">"location=<span class="token variable">$loc</span>&amp;"</span><span class="token punctuation">\</span><br><span class="token string">"details=<span class="token variable">$note</span>&amp;"</span><br><span class="token comment"># "trp=$&amp;" for availability</span><br><br>firefox <span class="token string">"<span class="token variable">$url</span>"</span></code></pre>
 
 <hr>
-<ul><li>السابق: <a href="/first-post/">افتتاحية</a></li>
+<ul><li>السابق: <a href="/ghaim/ar/first-post/">افتتاحية</a></li>
 </ul>
 
 <div class="post-nav">
 	  <div class="prev-post">
-		  <a class="nav-link" href="/first-post/">
+		  <a class="nav-link" href="/ghaim/ar/first-post/">
 			  <div>&rarr;السابق<br/> افتتاحية</a>
 		  	</div>
 	  </div>
@@ -92,7 +92,7 @@
 
     <footer>
       <nav>
-        <a href="/archive/">✒ أرشيف</a>
+        <a href="/ghaim/ar/archive/">✒ أرشيف</a>
       </nav>
 	  <div id="license">© 2022 مصطفى العلق (CC BY-NC 4.0)</div>
 	</footer>
