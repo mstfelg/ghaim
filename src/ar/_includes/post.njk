@@ -24,4 +24,21 @@ templateClass: tmpl-post
 {%- endif %}
 {%- endif %}
 
+<div class="post-nav">
+  {%- if nextPost %}
+	  <div class="next-post">
+		  <a class="nav-link" href="{{ nextPost.url | url }}">
+			  <div>التالي&larr;<br/>{{ nextPost.data.title }}</div>
+		  </a>
+	  </div>
+  {% endif %}
+  {%- if previousPost %}
+	  <div class="prev-post">
+		  <a class="nav-link" href="{{ previousPost.url | url }}">
+			  <div>&rarr;السابق<br/> {{ previousPost.data.title }}</a>
+		  	</div>
+	  </div>
+  {% endif %}
+</div>
+
 <hr>
