@@ -2,7 +2,7 @@
 	"courses" : [
 		{
 			"title": "هندسة",
-			"img": "/banner-geo.svg",
+			"img": "https://mstfelg.com/banner-geo.svg",
 			"chapters": [
 				{
 					"title": "مركز التعامد",
@@ -18,7 +18,7 @@
 		},
 		{
 			"title": "الجبر",
-			"img": "/banner-algebra.svg",
+			"img": "https://mstfelg.com/banner-algebra.svg",
 			"chapters": [
 				{
 					"title": "كثيرات الحدود",
@@ -34,7 +34,7 @@
 		},
 		{
 			"title": "نظرية الأعداد",
-			"img": "/banner-nt.svg",
+			"img": "https://mstfelg.com/banner-nt.svg",
 			"chapters": [
 				{
 					"title": "مبرهنة أويلر",

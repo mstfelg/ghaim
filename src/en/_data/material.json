@@ -2,7 +2,7 @@
 	"courses" : [
 		{
 			"title": "geometry",
-			"img": "/banner-geo.svg",
+			"img": "https://mstfelg.com/banner-geo.svg",
 			"chapters": [
 				{
 					"title": "orthocenter",
@@ -18,7 +18,7 @@
 		},
 		{
 			"title": "algebra",
-			"img": "/banner-algebra.svg",
+			"img": "https://mstfelg.com/banner-algebra.svg",
 			"chapters": [
 				{
 					"title": "Polynomials",
@@ -34,7 +34,7 @@
 		},
 		{
 			"title": "number theory",
-			"img": "/banner-nt.svg",
+			"img": "https://mstfelg.com/banner-nt.svg",
 			"chapters": [
 				{
 					"title": "Euler's totient function",

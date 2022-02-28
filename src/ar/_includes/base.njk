@@ -13,7 +13,7 @@
   </head>
   <body>
     <header>
-		<h1><a href="/">{{ metadata.title }}</a></h1>
+		<h1><a href={{"/" | url }}>{{ metadata.title }}</a></h1>
       <nav>
       {%- for entry in collections.headerNav | eleventyNavigation %}
         <a{% if entry.url == page.url %} class="nav-item-active"{% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
