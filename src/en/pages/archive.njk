@@ -8,5 +8,24 @@ eleventyNavigation:
 
 <h1>Archive</h1>
 
-{% set postslist = collections.posts %}
-{% include "postslist.njk" %}
+<table>
+	<thead>
+		<tr>
+			<th>Date</th>
+			<th>Title</th>
+		</tr>
+	</thead>
+	<tbody>
+	{% for post in collections.posts | reverse %}
+		<tr>
+			<th>
+				<time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+			</th>
+			<th>
+				<a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+			</th>
+		</tr>
+{% endfor %}
+	</tbody>
+</table>
+	<hr>
